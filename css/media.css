@@ -3,7 +3,7 @@
     .container{
         width: 95%;
     }
-    .img-item{
+    .img_item{
         width: 100%;
     }
  }
@@ -13,7 +13,7 @@
     .container{
         width: 520px;
     }
-    .img-item{
+    .img_item{
         width: 50%;
     }
  }
@@ -23,7 +23,7 @@
     .container{
         width: 700px;
     }
-    .img-item{
+    .img_item{
         width: 50%;
     }
  }
@@ -41,6 +41,6 @@
  /* extra extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) { 
     .container{
-        width: 1320px;
+        width: 95%;
     }
  }
